@@ -1,0 +1,17 @@
+{
+  "name": "projeto-node-web",
+  "version": "1.0.0",
+  "description": "Aplicacao web Node.js + Express com rotas que respondem em HTML",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Vanessa Sousa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
