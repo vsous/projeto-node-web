@@ -23,8 +23,8 @@ function pagina(titulo, conteudo, rotaAtiva) {
       --card: #ffffff;
       --ink: #1e1b2e;
       --muted: #6b6880;
-      --accent: #6d5efc;
-      --accent-2: #a78bfa;
+      --accent: #5efc6b;
+      --accent-2: #8bfaae;
       --border: #ebe9f5;
       --shadow: 0 10px 30px rgba(109, 94, 252, .08);
     }
